@@ -1,0 +1,1 @@
+suod userdel "user"
