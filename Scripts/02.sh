@@ -1,1 +1,1 @@
-suod userdel "user"
+sudo userdel "user"
